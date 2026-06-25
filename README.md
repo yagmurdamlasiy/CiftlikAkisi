@@ -1,7 +1,10 @@
+ÇİFTLİK AKIŞI
 🌿 FarmFlow - Akıllı Tarım Takip Sistemi
+
 FarmFlow, hem küçük ölçekli üreticiler hem de bitki yetiştirmeyi merak eden çocuklar ve yeni başlayanlar için tasarlanmış, web tabanlı interaktif bir akıllı tarım ve bitki takip platformudur. Doğa sevgisini dijital dünyanın kolaylığıyla birleştiren bu proje, kullanıcılarına sıfırdan bir bitkiyi büyütme ve hasat etme deneyimi sunar.
 
 👶 Çocuklar İçin Eğitici ve Öğretici Özellikler
+
 FarmFlow, çocukların çevre bilinci kazanması ve sorumluluk duygusunu geliştirmesi için harika bir öğretici araçtır:
 
 Oyunlaştırılmış Hasat ve Ambar Mantığı: Çocuklar ektikleri bitkilerin büyüme süreçlerini adım adım takip eder. Hasat zamanı geldiğinde ürünleri toplayıp "Ambar" bölümüne aktararak tarım süreçlerini keyifli bir oyun gibi deneyimlerler.
@@ -13,6 +16,7 @@ Doğa ve Bilimle Bağ Kurma: Bitki kartları, detaylı bakım önerileri ve böl
 Tarımsal Not Defteri: Çocuklar kendi bitki günlüklerini tutabilir, gelişim süreçlerine dair notlar alarak gözlem yeteneklerini geliştirebilirler.
 
 🚀 Öne Çıkan Özellikler
+
 Canlı Bahçem Sistemi: Kullanıcıların kendi ekim tarihlerini girerek kişiselleştirilmiş dijital bahçelerini oluşturabileceği dinamik arayüz.
 
 Dinamik Hava Durumu Desteği: Gerçek zamanlı hava durumu verilerini analiz ederek sulama ve bakım kararlarını kolaylaştıran API entegrasyonu.
@@ -22,6 +26,7 @@ Kullanıcı Dostu ve Sade Tasarım: Doğa temasını yansıtan yeşil ve beyaz t
 Çoklu Kullanıcı Desteği: localStorage altyapısı sayesinde farklı kullanıcıların (örneğin aynı evdeki kardeşlerin) kendi kişisel bahçe verilerini ayrı ayrı koruyarak sisteme erişebilmesi.
 
 🛠️ Kullanılan Teknolojiler
+
 Proje, modern ön-yüz teknolojileri ve kütüphaneleri kullanılarak modüler bir yapıda geliştirilmiştir:
 
 Framework / Kütüphane: React (JavaScript Çerçevesi) & JSX
